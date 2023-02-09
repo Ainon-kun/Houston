@@ -1,0 +1,29 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
+    padding-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+figure {
+    display: block; /* Блочный элемент */
+    float: right; /* Блоки выстраиваются по горизонтали */
+    text-align: center; /* Выравнивание по центру */
+}
+
+figcaption {
+    font-style: italic;
+    width: 300px;
+}
